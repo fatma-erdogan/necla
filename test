@@ -17,7 +17,7 @@ pipeline {
         }
         stage('uc') {
             steps {
-                echo 'Hello World canim nasilsin iyi misin '
+                echo 'deneme World canim nasilsin iyi misin '
             }
         }
     }
