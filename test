@@ -2,6 +2,7 @@ pipeline {
     agent any
     environment {
         FATMA="NECLAAAAAAAMMM"
+        MUNIR="AZRAAAAAA"
     }
     stages {
         stage('Hello') {
@@ -17,7 +18,7 @@ pipeline {
         }
         stage('uc') {
             steps {
-                echo 'deneme World canim nasilsin iyi misin '
+                echo 'deneme World canim nasilsin iyi misin ${MUNIR}'
             }
         }
     }
