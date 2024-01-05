@@ -4,6 +4,8 @@ pipeline {
         stage('run') {
             steps {
                 echo 'Clarusway_Way to Reinvent Yourself selam'
+                sh 'python3 --version'
+                sh 'python3 pipeline.py'
                 
             }
         }
