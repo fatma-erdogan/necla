@@ -1,1 +1,1 @@
-print ("caniiiiiimmm sen misin  ,, nasilsin deneme yapiyoruz ,, why nottttt , hadi bakalim nasil olacak bu sefer")
+print ("caniiiiiimmm sen misin  ,, nasilsin deneme yapiyoruz ,, why nottttt , hadi bakalim nasil olacak bu sefer , sec grubu actim bakalim nasil olacak ")
